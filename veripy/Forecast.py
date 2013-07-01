@@ -1,6 +1,6 @@
 # Forecast.py
 #
-# Copyright (c) 2009 James R. Holliday, jrholliday@ucdavis.edu
+# Copyright (c) James R. Holliday, jrholliday@gmail.com
 # See 'license.txt' for licensing and usage restrictions.
 #
 ###############################################################################
